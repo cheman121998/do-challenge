@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
   BrowserRouter
 } from "react-router-dom";
 import ChallengeOne from "./pages/ChallengeOne"; //Vì thằng app.js import cả 2 thằng
@@ -20,9 +19,7 @@ class App extends Component {
            <Route exact path="/1">
              <ChallengeOne />
            </Route>
-
-
-           <Route exact path='/2'>
+           <Route  path='/2'>
              <ChallengeTwo />
            </Route>
 
