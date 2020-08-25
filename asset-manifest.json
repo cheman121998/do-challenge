@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/do-challenge/static/css/main.6dec7c95.chunk.css",
-    "main.js": "/do-challenge/static/js/main.f23d2555.chunk.js",
-    "main.js.map": "/do-challenge/static/js/main.f23d2555.chunk.js.map",
+    "main.js": "/do-challenge/static/js/main.6592fdc6.chunk.js",
+    "main.js.map": "/do-challenge/static/js/main.6592fdc6.chunk.js.map",
     "runtime-main.js": "/do-challenge/static/js/runtime-main.0f891d59.js",
     "runtime-main.js.map": "/do-challenge/static/js/runtime-main.0f891d59.js.map",
     "static/js/2.491bce0f.chunk.js": "/do-challenge/static/js/2.491bce0f.chunk.js",
     "static/js/2.491bce0f.chunk.js.map": "/do-challenge/static/js/2.491bce0f.chunk.js.map",
     "index.html": "/do-challenge/index.html",
-    "precache-manifest.83accba76945f4ef1500b012feafa5ae.js": "/do-challenge/precache-manifest.83accba76945f4ef1500b012feafa5ae.js",
+    "precache-manifest.6e68c3ab6462b42b651b7694fd9807e7.js": "/do-challenge/precache-manifest.6e68c3ab6462b42b651b7694fd9807e7.js",
     "service-worker.js": "/do-challenge/service-worker.js",
     "static/css/main.6dec7c95.chunk.css.map": "/do-challenge/static/css/main.6dec7c95.chunk.css.map",
     "static/js/2.491bce0f.chunk.js.LICENSE.txt": "/do-challenge/static/js/2.491bce0f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0f891d59.js",
     "static/js/2.491bce0f.chunk.js",
     "static/css/main.6dec7c95.chunk.css",
-    "static/js/main.f23d2555.chunk.js"
+    "static/js/main.6592fdc6.chunk.js"
   ]
 }
