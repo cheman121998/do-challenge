@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/do-challenge/static/css/main.5fb6982f.chunk.css",
+    "main.css": "/do-challenge/static/css/main.6dec7c95.chunk.css",
     "main.js": "/do-challenge/static/js/main.71179346.chunk.js",
     "main.js.map": "/do-challenge/static/js/main.71179346.chunk.js.map",
     "runtime-main.js": "/do-challenge/static/js/runtime-main.0f891d59.js",
@@ -8,16 +8,16 @@
     "static/js/2.491bce0f.chunk.js": "/do-challenge/static/js/2.491bce0f.chunk.js",
     "static/js/2.491bce0f.chunk.js.map": "/do-challenge/static/js/2.491bce0f.chunk.js.map",
     "index.html": "/do-challenge/index.html",
-    "precache-manifest.a7f1c88b3c7692bf2eb11666e5da39b3.js": "/do-challenge/precache-manifest.a7f1c88b3c7692bf2eb11666e5da39b3.js",
+    "precache-manifest.13b213fd80566ed485097f03afddf404.js": "/do-challenge/precache-manifest.13b213fd80566ed485097f03afddf404.js",
     "service-worker.js": "/do-challenge/service-worker.js",
-    "static/css/main.5fb6982f.chunk.css.map": "/do-challenge/static/css/main.5fb6982f.chunk.css.map",
+    "static/css/main.6dec7c95.chunk.css.map": "/do-challenge/static/css/main.6dec7c95.chunk.css.map",
     "static/js/2.491bce0f.chunk.js.LICENSE.txt": "/do-challenge/static/js/2.491bce0f.chunk.js.LICENSE.txt",
     "static/media/style.css": "/do-challenge/static/media/zach-vessels-1289561-unsplash.4509711b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f891d59.js",
     "static/js/2.491bce0f.chunk.js",
-    "static/css/main.5fb6982f.chunk.css",
+    "static/css/main.6dec7c95.chunk.css",
     "static/js/main.71179346.chunk.js"
   ]
 }
