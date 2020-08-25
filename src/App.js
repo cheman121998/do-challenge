@@ -10,22 +10,25 @@ import ChallengeTwo from "./pages/ChallengeTwo"; //Vì thằng app.js import c�
 import './App.css' //Những style dùng chung e phải đặt ở trong này 
 
 class App extends Component {
- 
-  render(){
+
+  render() {
     return (
       <BrowserRouter basename={'/do-challenge'} >
-    
-         <Switch>
-           <Route exact path="/1">
-             <ChallengeOne />
-           </Route>
-           <Route  path='/2'>
-             <ChallengeTwo />
-           </Route>
 
-         </Switch>
-       
-     </BrowserRouter>
+        <Switch>
+          <Route exact path="/">
+            <ChallengeOne />
+          </Route>
+          <Route exact path="/1">
+            <ChallengeOne />
+          </Route>
+          <Route path='/2'>
+            <ChallengeTwo />
+          </Route>
+
+        </Switch>
+
+      </BrowserRouter>
     );
   }
 }
