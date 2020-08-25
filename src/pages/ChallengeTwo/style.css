@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-} 
+}
 
 #challenge-2 #head {
     background-size: cover;
@@ -54,11 +54,11 @@ body {
     ;
 }
 
-#challenge-2 a.active,#challenge-2  a:hover, a:active {
+#challenge-2 a.active, #challenge-2 a:hover, a:active {
     opacity: 1;
 }
 
-#challenge-2 a.active,#challenge-2  .nav-link:hover {
+#challenge-2 a.active, #challenge-2 .nav-link:hover {
     opacity: 1;
     color: orange;
 }
@@ -97,6 +97,7 @@ body {
     outline: none;
     border: none;
 }
+
 #challenge-2 .navbar-toggler i {
     display: none;
     font-size: 32px;
@@ -239,7 +240,7 @@ body {
     z-index: 2;
 }
 
-#challenge-2  #banner-item .row {
+#challenge-2 #banner-item .row {
     display: grid;
     grid-template-columns: 50% 50%;
     min-height: 50vh;
@@ -346,22 +347,22 @@ body {
 }
 
 @media (max-width: 575.98px) {
-    #challenge-2   #header {
+    #challenge-2 #header {
         padding: 40px 24px;
     }
-    #challenge-2   #mainNav .donate {
+    #challenge-2 #mainNav .donate {
         display: none;
     }
-    #challenge-2    .navbar-toggler i {
+    #challenge-2 .navbar-toggler i {
         display: block;
     }
-    #challenge-2    .intro-text {
+    #challenge-2 .intro-text {
         text-align: center;
     }
     #challenge-2 .intro-text h1 {
         font-size: 22px;
     }
-    #challenge-2  .intro-text p {
+    #challenge-2 .intro-text p {
         font-size: 14px;
         line-height: 20px;
         width: 100%;
@@ -369,53 +370,53 @@ body {
     #challenge-2 .intro-text .donate {
         margin-top: 44px;
     }
-    #challenge-2  .container {
+    #challenge-2 .container {
         padding-right: 0;
         padding-left: 0;
     }
-    #challenge-2  .content-item.container {
+    #challenge-2 .content-item.container {
         margin: 44px auto;
     }
-    #challenge-2  .header-content .row {
+    #challenge-2 .header-content .row {
         grid-template-columns: 33% 33% 33%;
         height: 120px;
         overflow: hidden;
         font-size: 14px;
     }
-    #challenge-2  .masthead .container .row .col-5 div {
+    #challenge-2 .masthead .container .row .col-5 div {
         font-size: 12px;
     }
-    #challenge-2   button.more {
+    #challenge-2 button.more {
         margin-left: 0;
         padding: 16px 60px;
     }
-    #challenge-2  .container.intro {
+    #challenge-2 .container.intro {
         min-height: calc(100vh - 260px);
     }
-    #challenge-2  .parent {
+    #challenge-2 .parent {
         display: block;
         text-align: center;
     }
-    #challenge-2   #banner-item h2 {
+    #challenge-2 #banner-item h2 {
         font-size: 18px;
     }
-    #challenge-2    .our-children, .scholarships {
+    #challenge-2 .our-children, .scholarships {
         padding-left: 0;
     }
-    #challenge-2  #banner-item p {
+    #challenge-2 #banner-item p {
         width: 80%;
         margin: 0 auto;
     }
-    #challenge-2  .checkbtn {
+    #challenge-2 .checkbtn {
         display: block;
     }
-    #challenge-2   .checkbtn i {
+    #challenge-2 .checkbtn i {
         font-size: 24px;
     }
     /* #check:checked ~ div#nav-menu{
        left: 0;
      } */
-     #challenge-2   div#nav-menu {
+    #challenge-2 div#nav-menu {
         position: absolute;
         width: 90%;
         height: 100vh;
@@ -428,18 +429,18 @@ body {
         z-index: 100;
         background-color: #B9220A;
     }
-    #challenge-2  .menu-icon {
+    #challenge-2 .menu-icon {
         display: block;
     }
-    #challenge-2   .nav {
+    #challenge-2 .nav {
         display: none;
     }
-    #challenge-2   .nav-menu ul {
+    #challenge-2 .nav-menu ul {
         display: block;
         line-height: 50px;
         padding-top: 80px;
     }
-    #challenge-2  #mainNav button.donate {
+    #challenge-2 #mainNav button.donate {
         background: #fff;
         color: #B9220A;
         display: block;
@@ -447,12 +448,12 @@ body {
         margin: 0 auto;
         font-size: 12px;
     }
-    #challenge-2  .nav-menu ul li {
+    #challenge-2 .nav-menu ul li {
         padding: 0.5rem 0;
     }
 }
 
- .menu-btn:checked~div#nav-menu {
+.menu-btn:checked~div#nav-menu {
     display: block;
 }
 
@@ -476,7 +477,7 @@ body {
     /* .header .menu-icon {
        display: none;
      } */
-     #challenge-2 .container {
+    #challenge-2 .container {
         max-width: 540px;
     }
 }
@@ -494,8 +495,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-    #challenge-2  .container {
+    #challenge-2 .container {
         max-width: 1140px;
     }
 }
-
